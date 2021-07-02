@@ -1,9 +1,7 @@
 body {
     background-color: blueviolet;
 }
-main h1 {
-    color: crimson;
-    text-align: center;
+
 }
  footer{
      text-decoration: crimson;
@@ -11,3 +9,4 @@ main h1 {
      color: darkgreen;
      line-height: 60px;
  }
+ 
